@@ -72,9 +72,6 @@ CONFIG_PACKAGE_hostapd-utils=y
 CONFIG_PACKAGE_iw=y
 CONFIG_PACKAGE_iwinfo=y
 
-# 增加dockerman
-CONFIG_PACKAGE_luci-app-dockerman=y
-
 # CONFIG_PACKAGE_haproxy is not set
 # CONFIG_PACKAGE_haproxy-nossl is not set
 # CONFIG_PACKAGE_hysteria is not set
