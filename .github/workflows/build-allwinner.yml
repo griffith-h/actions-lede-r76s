@@ -153,7 +153,7 @@ jobs:
       id: tag
       if: env.UPLOAD_RELEASE == 'true' && steps.compile.outputs.status == 'success' && !cancelled()
       run: |
-        echo -e "🎉 allwinner平台\n✅ 主线源码\n❗️ ip地址 : 192.168.8.1" >> release.txt
+        echo -e "🎉 allwinner平台\n✅ 主线源码\n❗️ ip地址 : 192.168.2.1" >> release.txt
         echo "release_tag=$(date +"%Y.%m.%d_Allwinner")" >> $GITHUB_OUTPUT
         echo "status=success" >> $GITHUB_OUTPUT
 

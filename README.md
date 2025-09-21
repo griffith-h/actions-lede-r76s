@@ -9,7 +9,7 @@ allwinner平台：请看 releases<br>
 mediatek平台：还是看 releases<br>
 rockchip平台：太多了 去看看 releases<br>
 
-默认ip地址：192.168.8.1<br>默认开启 smartdns（海外端口6553）<br>Openclash已下载好clash内核（mtk平台不下载meta core）<br>
+默认ip地址：192.168.2.1<br>默认开启 smartdns（海外端口6553）<br>Openclash已下载好clash内核（mtk平台不下载meta core）<br>
 ![github3](doc/github3.png)<br>
 ![design](doc/design.png)<br>
 ## passwall + smartdns（海外端口6553）使用配置。
